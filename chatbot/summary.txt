@@ -1,0 +1,7 @@
+Summarizing the chatbot
+the chatbot works with pre determined queries.
+1. First it asks the company the user wants to explore
+2. Next, the user can enter his query to the chatbot
+3. Any query with the keywords "Revenue","Income","Cash","CashFlow","Asset","liabilities" etc. will be taken 
+in by the chatbot and it gives the neccessary data out for the user
+4. This can continue till the user inters "bye" upon which the chatbot ends the conversation
